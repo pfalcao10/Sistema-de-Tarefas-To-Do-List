@@ -59,7 +59,7 @@ e ajuste suas credenciais:
 $host     = 'localhost';
 $dbname   = 'tarefas';
 $username = 'root';
-$password = '';
+$password = 'ceub123456';
 
 ?>
 ```
