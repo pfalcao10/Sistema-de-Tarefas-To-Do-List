@@ -260,11 +260,11 @@ Criar um sistema funcional com autenticação de usuários e gerenciamento compl
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por:
+Projeto desenvolvido por: pfalcao10
 
-**Seu Nome Aqui**
+**Pedro Antonio Falcão de Assis**
 
-GitHub:
+GitHub:https://github.com/pfalcao10/Sistema-de-Tarefas-To-Do-List/edit/main/README.md
 
 ```txt
 https://github.com/pfalcao10
